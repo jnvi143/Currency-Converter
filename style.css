@@ -1,0 +1,80 @@
+*{
+    margin:0px;
+    padding: 0px;;
+   } 
+
+h1{
+    margin: 10px;
+    padding:10px;
+    text-align: center;
+    font-size: 3rem;
+    background-color: #a2d2ff;
+}
+
+
+#fetch-API{
+ margin:30px auto;
+ padding: 10px;
+ text-align: center;
+ font-size: 2rem;
+ background-color: #ffafcc;
+ width: fit-content;
+ border:2px solid black;
+}
+
+body{
+    margin: 10px;
+    padding:10px;
+    text-align: center;
+    background-color:#ffc8dd;
+}
+   
+#container{
+    margin:30px auto;
+    padding: 10px;
+    background-color: #cdb4db;
+    border: 3px solid black;
+    width: fit-content;
+}
+
+#useramount{
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.5rem;
+
+
+}
+
+#amount{
+    margin: 10px;
+    padding: 10px;
+
+}
+    
+.option{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: large;
+    background-color: #ffafcc;
+    border: 2px solid black;
+}
+    
+#convert {
+    margin: 10px;
+    padding: 10px;
+    background-color:#bde0fe;
+     border: 2px solid black;
+     font-size:1.5rem;
+}  
+
+ #result{
+    margin: 30px;
+    padding: 10px;
+    font-size:2rem;
+    background-color:#cdb4db ;
+    border: 2px solid black;
+ 
+ }
+    
+    
