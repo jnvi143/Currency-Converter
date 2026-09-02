@@ -33,7 +33,7 @@ option.addEventListener("click",()=>{
 });
 });
 
-//convert
+//adding eventlistener to convert button
 convert.forEach((convert)=>{
     convert.addEventListener("click",()=>{
 
