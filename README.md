@@ -1,2 +1,3 @@
 # Currency-Converter
-To run this project, add your own Twelve Data API key in `script.js`.
+T0 run this project ,
+Replace YOUR_API_KEY with your own FreeCurrencyAPI key.
